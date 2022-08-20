@@ -1,7 +1,7 @@
-# Li-Ion and LiFePO4 Battery Capacity Tester
+# Li-Ion, LiPo and LiFePO4 Battery Capacity Tester
 The ATtiny412 controlled battery capacity tester measures the capacity of single-cell Li-Ion, LiPo and LiFePO4 batteries using the built-in constant current load. Discharge termination (cutoff) voltage and discharge current can be selected by the user. During the discharging process, all relevant data is displayed on an OLED.
 
-- Design Files (EasyEDA): https://easyeda.com/wagiminator/
+- Design Files (EasyEDA): https://easyeda.com/wagiminator/attiny412-batterycapacitytester
 
 ![pic1.jpg](https://raw.githubusercontent.com/wagiminator/ATtiny412-BatteryCapacityTester/main/documentation/BatteryCapacityTester_pic1.jpg)
 
