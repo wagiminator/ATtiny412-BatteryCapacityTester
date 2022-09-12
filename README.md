@@ -64,7 +64,7 @@ Before compiling the firmware, some parameters can be adjusted to suit user beha
 
 # Operating Instructions
 ## Measurement Process
-1. Connect the device to a 5V power supply via the USB-C port.
+1. Connect the device to a 5V power supply via the USB Type-C port.
 2. Use the buttons to select the discharge termination voltage and the maximum discharge current.
 3. Connect the previously fully charged battery to be tested to the device.
 4. Press the START button.
@@ -96,6 +96,8 @@ Check the battery's data sheet for its maximum discharge current. If this is not
 2. [ATtiny412 Datasheet](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/ATtiny212-214-412-414-416-DataSheet-DS40002287A.pdf)
 3. [LMV321 Datasheet](https://www.onsemi.com/pdf/datasheet/lmv321-d.pdf)
 4. [IRL540N Datasheet](https://datasheet.lcsc.com/lcsc/1808281632_Infineon-Technologies-IRL540NPBF_C111607.pdf)
+5. [SSD1306 Datasheet](https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf)
+6. [128x64 OLED on Aliexpress](http://aliexpress.com/wholesale?SearchText=128+64+0.96+oled+new+4pin)
 
 ![pic2.jpg](https://raw.githubusercontent.com/wagiminator/ATtiny412-BatteryCapacityTester/main/documentation/BatteryCapacityTester_pic2.jpg)
 ![pic3.jpg](https://raw.githubusercontent.com/wagiminator/ATtiny412-BatteryCapacityTester/main/documentation/BatteryCapacityTester_pic3.jpg)
