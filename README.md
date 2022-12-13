@@ -57,7 +57,7 @@ Before compiling the firmware, some parameters can be adjusted to suit user beha
 - Open the sketch and click **Upload**.
 
 ### If using the makefile (Linux/Mac)
-- Download [AVR 8-bit Toolchain](https://www.microchip.com/mplab/avr-support/avr-and-arm-toolchains-c-compilers) and extract the sub-folders (avr, bin, include, ...) to /software/tools/avr-gcc. To do this, you have to register for free with Microchip on the download site.
+- Make sure you have installed the latest [avr-gcc toolchain](http://maxembedded.com/2015/06/setting-up-avr-gcc-toolchain-on-linux-and-mac-os-x/).
 - Open a terminal.
 - Navigate to the folder with the makefile and the sketch.
 - Run `PROGRMR=serialupdi PORT=/dev/ttyUSB0 make install` to compile, burn the fuses and upload the firmware (change PROGRMR and PORT accordingly).
